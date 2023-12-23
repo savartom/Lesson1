@@ -1,1 +1,1 @@
-print('My second Git program!!!')
+print('Hello, python!')
